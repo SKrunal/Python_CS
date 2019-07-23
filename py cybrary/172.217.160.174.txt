@@ -1,0 +1,6 @@
+The host is up
+the port 80 is : open
+The method of sccaning is syn-ack
+there is a 100 percent chance is host is running Linux 2.6.32 - 3.10
+
+Report generated 2019-07-14_03:4831 GMT
